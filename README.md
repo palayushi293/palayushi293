@@ -1,8 +1,17 @@
 <h1>- 👋 Hi, I’m  Ayushi Pal
   </h1>
+  <br/>
+  <h1>
 - 👀 I’m interested in frontend and Machine Learning
+  </h1>
+  <br/>
+  <h1>
 - 🌱 I’m currently learning React, CNN
+  </h1>
+  <br/>
+  <h1>
 - 💞️ I’m looking for real world project.
+  </h1>
 
 
 
