@@ -13,7 +13,8 @@
 - 💞️ I’m looking for real world project.
   </h3>
 
-  <a href="https://leetcode.com/u/AYUSHI_PAL/"></a>
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/AYUSHI_PAL/)
+
 
 
 
