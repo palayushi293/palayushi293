@@ -12,8 +12,8 @@
   <h3>
 - 💞️ I’m looking for real world project.
   </h3>
+![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark)
 
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/AYUSHI_PAL/)
 
 
 
