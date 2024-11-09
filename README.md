@@ -14,4 +14,4 @@
   </h3>
 
 
-![](https://leetcode.com/u/AYUSHI_PAL/?ext=heatmap)
+![](https://leetcard.jacoblin.cool/AYUSHI_PAL?ext=heatmap)
