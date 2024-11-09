@@ -15,4 +15,4 @@
 
 
 ![](https://leetcard.jacoblin.cool/AYUSHI_PAL?ext=heatmap)
-![GeeksforGeeks Heatmap](https://github.com/palayusld1h/README.md/blob/main/gfg_heatmap.png)
+
